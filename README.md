@@ -1,5 +1,6 @@
 # Power-BI-Presentation
-Power BI Presentation. Topic: Tourism Analysis on Nova Scotia.
+Power BI Presentation. Topic: Tourism Analysis of Nova Scotia. - [YouTube Video link](https://www.youtube.com/watch?v=BhoqYA8CyTg&ab_channel=SriDivyaAnisetty)     
+![Screenshot of YouTube video](./Screenshot%20of%20Youtube_Video.PNG)
 
 The raw data is collected from Government of Nova Scotia's tourism website and performed cleaning and analysis. The data is starting from 2006 to 2023. 
 
