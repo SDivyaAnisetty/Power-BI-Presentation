@@ -1,5 +1,5 @@
 # Power-BI-Presentation
-Power BI Presentation. Topic: Tourism Analysis of Nova Scotia. - [YouTube Video link](https://www.youtube.com/watch?v=BhoqYA8CyTg&ab_channel=SriDivyaAnisetty)     
+Power BI Presentation. Topic: Tourism Analysis of Nova Scotia. - [YouTube Video link](https://youtu.be/pmN-w1HFsY0) 
 ![Screenshot of YouTube video](./Youtube_PowerBI_VIdeo.PNG)
 
 
